@@ -1,4 +1,4 @@
-#  **QR Code Generator** 🚀  
+#  **QR Code Generator**   
 
 Generate and download QR codes instantly with this simple and stylish web app.  
 
