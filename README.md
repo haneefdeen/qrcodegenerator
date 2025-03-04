@@ -11,7 +11,7 @@ Generate and download QR codes instantly with this simple and stylish web app.
 
 ## 🛠 **Tech Stack**  
 - **React**  
-- **CSS  
+- **CSS**  
 - **QR Code API** 📡  
 
 
